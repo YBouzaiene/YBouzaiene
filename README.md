@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Youssef Bouzaiene 👋
+# Hi, I'm Yassine Bouzaiene 👋
 
 **Software & AI Engineer | Double Degree Candidate at University of Passau**  
 *Passionate about Applied Mathematics, Algorithm Rigor, and Intelligent Systems*
@@ -11,17 +11,17 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a Software and AI Engineer with a strong mathematical foundation and a deep curiosity for how complex systems work under the hood. Currently pursuing a **Double Degree**: M.Sc. in Computer Science at the **University of Passau (Germany)** alongside an Engineering Degree in Computer Science from **ENSI (Tunisia)**.
 
-- 🧠 **Core Approach:** I prioritize mathematical precision, clean design patterns, and deep fundamental understanding over superficial implementations.
-- 🎓 **Academic Journey:** Top percentile graduate through rigorous preparatory studies (Math/Physics) and premier engineering education in North Africa.
-- 📍 **Based in:** Passau, Germany.
+-  **Core Approach:** I prioritize mathematical precision, clean design patterns, and deep fundamental understanding over superficial implementations.
+-  **Academic Journey:** Top percentile graduate through rigorous preparatory studies (Math/Physics) and premier engineering education in North Africa.
+-  **Based in:** Passau, Germany.
 
 ---
 
-### 🎓 Academic Excellence
+###  Academic Excellence
 
 - **M.Sc. & Engineering Degree in Computer Science (Double Degree)**  
   *University of Passau (Germany) & ENSI (Tunisia)* | Current
@@ -54,7 +54,7 @@ I am a Software and AI Engineer with a strong mathematical foundation and a deep
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YBouzaiene&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="48%" />
